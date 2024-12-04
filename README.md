@@ -50,7 +50,7 @@ Amazon S3 simplifies data storage and management while offering flexibility, sec
    - Confirm that your `index.html` file is properly named and accessible.
 
 ## Additional Resources
-The PDF paper provided in this repository provides a detailed step-by-step guide with screenshots.
+The PDF paper provided in this repository provides a detailed step-by-step guide with screenshots.[https://github.com/Hans-Van/static-website-hosting-S3-bucket/blob/main/legendary-aws-host-a-website-on-s3.pdf]
 
 ### Credits
 This project was completed with the support of the NextWork community, a fantastic resource for hands-on learning in cloud and tech skills. Visit [NextWork](https://community.nextwork.org) for more information.
